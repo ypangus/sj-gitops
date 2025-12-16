@@ -22,7 +22,7 @@ org_settings:
     enable_software_inventory: true
   host_expiry_settings:
     hsot_expiry_enabled: true
-    hsot_expiry_days: 30
+    hsot_expiry_window: 30
   webhook_settings:
     enable_activities_webhook: true
     destination_url: https://webhook.site/ed533718-a589-41bf-9469-ba2119f5e707
